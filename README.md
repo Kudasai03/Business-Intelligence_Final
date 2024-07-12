@@ -42,9 +42,42 @@ Second, there are performance differences between position groups. Specifically,
 It can be seen that NorthWind Traders' business performance indicators have not developed uniformly over time, from revenue, net profit to sales volume of product categories.
 The company's customer base is not yet diverse, focusing mainly on two markets: America and Europe. It would be quite risky if NorthWind's customer base is only concentrated in certain continents because NorthWind's sales will be affected if the economic situation in these continents turns bad.
 To improve the problems of unstable business development as well as an undiversified customer base, the team proposes solutions to this situation through three stages: research and analysis, implementation, Finally, evaluate and adjust. Specifically:
-Phase 1: Research and Analysis (2 months)
-Phase 2: Solution Deployment (6 months)
-Phase 3: Evaluation and Adjustment (quarterly) (More detail in the PDF)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <p>Phase 1: Research and Analysis (2 months):</p>
+  <ol>
+    <li>Understand clearly the reasons why business performance indicators are unstable and why customer files have not diversified.</li>
+    <li>Combine sales data analysis and market situation, competitor analysis.</li>
+  </ol>
+  <p>Phase 2: Solution Deployment (6 months).</p>
+    <li>Implement solutions to improve problems identified during research and analysis in phase 1</li>
+    <li>By identifying products with poor and strong sales, NorthWind can consider discontinuing poorly performing products, upgrading features to match consumer trends for products with unusual consumption drops, and continuing to invest in technology to enhance popular products. </li>
+    <li>NorthWind Traders should increase brand awareness among customers, develop effective marketing programs to boost sales, and select appropriate communication channels to reach target audiences in various markets.</li>
+    <li>NorthWind can actively participate in trade shows and industry seminars to showcase products and services to more potential customers, collaborate with reputable distributors in target markets to quickly expand business scale, and develop a website and online distribution channels to connect with customers globally.</li>
+  <p>Phase 3: Evaluation and Adjustment (quarterly):</p>
+  <ol>
+    <li>After implementing the solutions, NorthWind should conduct a quarterly performance assessment using the following indicators to check the feasibility of the implemented solutions:
+Sales growth rate: Compare sales during the research and analysis period with the previous period.
+Conversion rate: Determine the percentage of customers who visit your website or store and make a purchase.
+Gross profit: Calculate the profit earned from sales after deducting the cost of goods sold.
+Customer satisfaction rate: Measures customer satisfaction with Northwind's products, services and customer service.
+Market share: Determine the ratio of Northwind's sales to total industry sales.
+Brand recognition rate: Determine the rate of customers who know the Northwind brand.
+The solution will be considered effective if the indicators are within the following thresholds:
+Sales growth rate: 5-10%
+Conversion rate: 1-5%
+Gross profit: 20-40%
+Customer satisfaction rate: 80-90%
+Market share: 10-20%</li>
+    <li>Combine sales data analysis and market situation, competitor analysis.</li>
+  </ol>
+</body>
+</html>
 
 2. About the supply chain system:
 Phase 1: Analyze and search for potential suppliers (2 months)
