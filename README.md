@@ -21,7 +21,8 @@ Base on Northwind Traders, a fictitious organization that manages orders, produc
 
   <p>ETL and Analyst using SQL and Power BI:</p>
   <ol>
-![image](https://github.com/user-attachments/assets/04eebfb3-0c8c-4e6a-a420-942e4ed8e072)
+    
+![image](https://github.com/user-attachments/assets/a3af11cd-0298-47cd-b915-346356db0831)
 - From the chart, as of May 1998, Northwind showed a positive profit trend early in the year, with notable growth in January ($20,500) and April ($27,200), and stable profits in February and March. However, profits have declined abnormally since mid-May compared to last year. To improve performance in 1998, Northwind must identify issues and develop strategies to boost mid-year profits.
 => The business's revenue and net profit in the first and last months of the year have a significant difference compared to the mid-year months from May to July.
     
