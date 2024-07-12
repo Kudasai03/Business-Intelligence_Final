@@ -60,7 +60,7 @@ To improve the problems of unstable business development as well as an undiversi
     <li>By identifying products with poor and strong sales, NorthWind can consider discontinuing poorly performing products, upgrading features to match consumer trends for products with unusual consumption drops, and continuing to invest in technology to enhance popular products. </li>
     <li>NorthWind Traders should increase brand awareness among customers, develop effective marketing programs to boost sales, and select appropriate communication channels to reach target audiences in various markets.</li>
     <li>NorthWind can actively participate in trade shows and industry seminars to showcase products and services to more potential customers, collaborate with reputable distributors in target markets to quickly expand business scale, and develop a website and online distribution channels to connect with customers globally.</li>
-    <ol>
+    </ol>
   <p>Phase 3: Evaluation and Adjustment (quarterly):</p>
     <ol>
     <li>After implementing the solutions, NorthWind should conduct a quarterly performance assessment using the following indicators to check the feasibility of the implemented solutions:
@@ -76,7 +76,6 @@ Conversion rate: 1-5%
 Gross profit: 20-40%
 Customer satisfaction rate: 80-90%
 Market share: 10-20%</li>
-    <ol>
   </ol>
 </body>
 </html>
