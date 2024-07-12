@@ -60,7 +60,6 @@ To improve the problems of unstable business development as well as an undiversi
     <li>NorthWind Traders should increase brand awareness among customers, develop effective marketing programs to boost sales, and select appropriate communication channels to reach target audiences in various markets.</li>
     <li>NorthWind can actively participate in trade shows and industry seminars to showcase products and services to more potential customers, collaborate with reputable distributors in target markets to quickly expand business scale, and develop a website and online distribution channels to connect with customers globally.</li>
   <p>Phase 3: Evaluation and Adjustment (quarterly):</p>
-  <ol>
     <li>After implementing the solutions, NorthWind should conduct a quarterly performance assessment using the following indicators to check the feasibility of the implemented solutions:
 Sales growth rate: Compare sales during the research and analysis period with the previous period.
 Conversion rate: Determine the percentage of customers who visit your website or store and make a purchase.
