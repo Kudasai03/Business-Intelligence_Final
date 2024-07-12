@@ -38,7 +38,7 @@ Second, there are performance differences between position groups. Specifically,
 </html>
 
 ### Solution
-1. About the business situation:
+#### A. About the business situation:
 It can be seen that NorthWind Traders' business performance indicators have not developed uniformly over time, from revenue, net profit to sales volume of product categories.
 The company's customer base is not yet diverse, focusing mainly on two markets: America and Europe. It would be quite risky if NorthWind's customer base is only concentrated in certain continents because NorthWind's sales will be affected if the economic situation in these continents turns bad.
 To improve the problems of unstable business development as well as an undiversified customer base, the team proposes solutions to this situation through three stages: research and analysis, implementation, Finally, evaluate and adjust. Specifically:
@@ -76,16 +76,17 @@ Conversion rate: 1-5%
 Gross profit: 20-40%
 Customer satisfaction rate: 80-90%
 Market share: 10-20%</li>
+    </ol>
   </ol>
 </body>
 </html>
 
-2. About the supply chain system:
+#### B. About the supply chain system:
 Phase 1: Analyze and search for potential suppliers (2 months)
 Phase 2: Deploy SAP Warehouse Management system (3 years) and maintain
 Phase 3: Improved inventory forecasting (5 years) (More detail in the PDF)
 
-3. About employee management:
+#### C. About employee management:
 The solution to improving performance differs between position groups and the number of orders each employee brings in does not grow much at the top.
 Phase 1: Analysis and evaluation (1 month)
 Phase 2: Solution Deployment (6 months)
