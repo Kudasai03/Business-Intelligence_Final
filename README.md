@@ -69,14 +69,14 @@ Conversion rate: Determine the percentage of customers who visit your website or
 Gross profit: Calculate the profit earned from sales after deducting the cost of goods sold.
 Customer satisfaction rate: Measures customer satisfaction with Northwind's products, services and customer service.
 Market share: Determine the ratio of Northwind's sales to total industry sales.
-Brand recognition rate: Determine the rate of customers who know the Northwind brand.
-The solution will be considered effective if the indicators are within the following thresholds:
+Brand recognition rate: Determine the rate of customers who know the Northwind brand.</li>
+    <li>The solution will be considered effective if the indicators are within the following thresholds:
 Sales growth rate: 5-10%
 Conversion rate: 1-5%
 Gross profit: 20-40%
 Customer satisfaction rate: 80-90%
 Market share: 10-20%</li>
-    <li>Combine sales data analysis and market situation, competitor analysis.</li>
+    <ol>
   </ol>
 </body>
 </html>
